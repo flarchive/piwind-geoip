@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of piwind/geoip.** Not for installation: use [Packagist](https://packagist.org/packages/piwind/geoip) or the [upstream repository](https://github.com/piwind/flarum-geoip).
 
-**0** versions archived · Latest: [`v1.6.0`](https://github.com/flarchive/piwind-geoip/tree/archive/v1.6.0) · License: `MIT` · Flarum: `^1.8.7`
+**1** versions archived · Latest: [`v1.6.0`](https://github.com/flarchive/piwind-geoip/tree/archive/v1.6.0) · License: `MIT` · Flarum: `^1.8.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.6.0` | 2025-05-31 | `^1.8.7` | [Browse](https://github.com/flarchive/piwind-geoip/tree/archive/v1.6.0) |
 
 Catalog entry: [packages/piwind-geoip.json](https://github.com/flarchive/archive-index/blob/main/packages/piwind-geoip.json)
 
